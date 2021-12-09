@@ -69,8 +69,8 @@ aside {
   display: flex;
   font-size: 20px;
   justify-content: space-between;
-  margin: 36px 0;
-  width: 160px;
+  margin: 20px 0;
+  width: 50px;
 }
 
 .social-links a {
@@ -105,7 +105,7 @@ aside {
 }
 
 .download-button {
-  background: #3c6e71;
+  background: #284b63;
   border-radius: 8px;
   color: white;
   display: block;
